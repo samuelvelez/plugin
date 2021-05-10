@@ -10,7 +10,7 @@
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                 <div class="form-group">
                     <label for="username" style="margin-top:15px;">Username</label>
-                    <input name="username" type="text" class="form-control" required="required" >
+                    <input name="username" type="email" class="form-control" required="required" >
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
